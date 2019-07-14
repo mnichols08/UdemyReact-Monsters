@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7374988be09244d77abdf3b4791d597d",
+    "revision": "581c85544a85c841913e6690bd9ad720",
     "url": "/UdemyReact-Monsters/index.html"
   },
   {
-    "revision": "616ae65f84ad7f52604e",
-    "url": "/UdemyReact-Monsters/static/css/main.95691f9e.chunk.css"
+    "revision": "c292c3b0e45b4624219a",
+    "url": "/UdemyReact-Monsters/static/css/main.5e541367.chunk.css"
   },
   {
     "revision": "681b51057d74cfa8975d",
     "url": "/UdemyReact-Monsters/static/js/2.65aa1cca.chunk.js"
   },
   {
-    "revision": "616ae65f84ad7f52604e",
-    "url": "/UdemyReact-Monsters/static/js/main.14c19753.chunk.js"
+    "revision": "c292c3b0e45b4624219a",
+    "url": "/UdemyReact-Monsters/static/js/main.e751210b.chunk.js"
   },
   {
     "revision": "7a222e60930ddd718ace",

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/UdemyReact-Monsters/static/css/main.95691f9e.chunk.css",
-    "main.js": "/UdemyReact-Monsters/static/js/main.14c19753.chunk.js",
-    "main.js.map": "/UdemyReact-Monsters/static/js/main.14c19753.chunk.js.map",
+    "main.css": "/UdemyReact-Monsters/static/css/main.5e541367.chunk.css",
+    "main.js": "/UdemyReact-Monsters/static/js/main.e751210b.chunk.js",
+    "main.js.map": "/UdemyReact-Monsters/static/js/main.e751210b.chunk.js.map",
     "runtime~main.js": "/UdemyReact-Monsters/static/js/runtime~main.54021a65.js",
     "runtime~main.js.map": "/UdemyReact-Monsters/static/js/runtime~main.54021a65.js.map",
     "static/js/2.65aa1cca.chunk.js": "/UdemyReact-Monsters/static/js/2.65aa1cca.chunk.js",
     "static/js/2.65aa1cca.chunk.js.map": "/UdemyReact-Monsters/static/js/2.65aa1cca.chunk.js.map",
     "index.html": "/UdemyReact-Monsters/index.html",
-    "precache-manifest.61a39aad576de615d7108956042cf29a.js": "/UdemyReact-Monsters/precache-manifest.61a39aad576de615d7108956042cf29a.js",
+    "precache-manifest.2ce1ee3740a8f36007f266774fbc023f.js": "/UdemyReact-Monsters/precache-manifest.2ce1ee3740a8f36007f266774fbc023f.js",
     "service-worker.js": "/UdemyReact-Monsters/service-worker.js",
-    "static/css/main.95691f9e.chunk.css.map": "/UdemyReact-Monsters/static/css/main.95691f9e.chunk.css.map",
+    "static/css/main.5e541367.chunk.css.map": "/UdemyReact-Monsters/static/css/main.5e541367.chunk.css.map",
     "static/media/logo.svg": "/UdemyReact-Monsters/static/media/logo.5d5d9eef.svg"
   }
 }
