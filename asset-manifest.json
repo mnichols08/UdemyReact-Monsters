@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/UdemyReact-Monsters/static/css/main.b0e0f420.chunk.css",
+    "main.css": "/UdemyReact-Monsters/static/css/main.95691f9e.chunk.css",
     "main.js": "/UdemyReact-Monsters/static/js/main.14c19753.chunk.js",
     "main.js.map": "/UdemyReact-Monsters/static/js/main.14c19753.chunk.js.map",
     "runtime~main.js": "/UdemyReact-Monsters/static/js/runtime~main.54021a65.js",
@@ -8,9 +8,9 @@
     "static/js/2.65aa1cca.chunk.js": "/UdemyReact-Monsters/static/js/2.65aa1cca.chunk.js",
     "static/js/2.65aa1cca.chunk.js.map": "/UdemyReact-Monsters/static/js/2.65aa1cca.chunk.js.map",
     "index.html": "/UdemyReact-Monsters/index.html",
-    "precache-manifest.e29a22df92245faa00667334ef908b3c.js": "/UdemyReact-Monsters/precache-manifest.e29a22df92245faa00667334ef908b3c.js",
+    "precache-manifest.61a39aad576de615d7108956042cf29a.js": "/UdemyReact-Monsters/precache-manifest.61a39aad576de615d7108956042cf29a.js",
     "service-worker.js": "/UdemyReact-Monsters/service-worker.js",
-    "static/css/main.b0e0f420.chunk.css.map": "/UdemyReact-Monsters/static/css/main.b0e0f420.chunk.css.map",
+    "static/css/main.95691f9e.chunk.css.map": "/UdemyReact-Monsters/static/css/main.95691f9e.chunk.css.map",
     "static/media/logo.svg": "/UdemyReact-Monsters/static/media/logo.5d5d9eef.svg"
   }
 }
