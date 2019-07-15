@@ -5,6 +5,11 @@ import { SearchBox } from './components/search-box/search-box.component'
 import { CardList } from './components/card-list/card-list.component'
 
 
+// function filterByValue (array, string) {
+//   return array.filter(o =>
+//       Object.keys(o).some(k => o[k].toLowerCase().includes(string.toLowerCase())));
+// }
+
 class App extends React.Component {
   constructor() {
     super();
@@ -14,22 +19,24 @@ class App extends React.Component {
     }
   }
 
+
   handleChange = e => {
     this.setState({ searchField: e.target.value })
   }
 
   componentDidMount() {
-    fetch('https://jsonplaceholder.typicode.com/users')
+    fetch('https://codepen.io/mnichols08/pen/KjLzNd.js')
     .then(response => response.json())
     .then(users => this.setState({ monsters: users }))
   }
 
   render() {
     const { monsters, searchField } = this.state;
-    const filteredMonsters = monsters.filter(monster => monster.name.toLowerCase().includes(searchField.toLowerCase()));
+    // const filteredMonsters = monsters.filter(monster => monster.first_name.toLowerCase().includes(searchField.toLowerCase()));
+    const filteredMonsters = monsters.filter(o => Object.keys(o).some(k => o[k].toString().toLowerCase().includes(searchField.toString().toLowerCase())));
     return (
       <div className="App">
-        <h1>Monsters Rolodex</h1>
+        <h1>Runners Rolodex</h1>
         <SearchBox 
         placeholder='search monsters'
         handleChange={this.handleChange}
